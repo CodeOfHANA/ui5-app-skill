@@ -74,7 +74,7 @@ webapp/
   - Example: `zpurchorders`
 - **Namespace**: Reverse-DNS, 3 segments, lowercase
   - Pattern: `<company>.<module>.<appname>`
-  - Example: `com.relacon.purchorders`
+  - Example: `com.company.purchorders`
 - **Git repository**: Lowercase with hyphens, max 30 chars
 
 ### Fiori Launchpad Integration
